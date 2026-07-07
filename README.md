@@ -206,6 +206,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Koushik**
+
 GitHub: https://github.com/koushik995
+
 Feel free to connect and contribute to improve the project.
 ````
